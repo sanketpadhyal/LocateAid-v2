@@ -1,4 +1,4 @@
-# LocateAid-v2
+# LocateAid v2
 **Status:** Currently Under Development  
 
 ---
