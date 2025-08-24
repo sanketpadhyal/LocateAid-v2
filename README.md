@@ -1,6 +1,6 @@
 # LocateAid v2
 **Status:** Currently Under Development  
-
+> PROJECT MIGHT GET DELAYED BECAUSE OF MY ADMISSION PROCESS AND PERSONAL WORK BUT I PROMISE IT WONT TAKE LONG 🫶🏻
 ---
 
 ## 🆕 Latest Update Notes
