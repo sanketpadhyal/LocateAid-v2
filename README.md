@@ -1,6 +1,6 @@
 # LocateAid v2
 **Status:** Currently Under Development  
-> PROJECT MIGHT GET DELAYED BECAUSE OF MY ADMISSION PROCESS AND PERSONAL WORK BUT I PROMISE IT WONT TAKE LONG 🫶🏻
+> PROJECT MIGHT GET DELAYED BECAUSE OF MY ADMISSION PROCESS AND PERSONAL WORK BUT I PROMISE IT WON’T TAKE LONG 🫶🏻
 ---
 
 ## 🆕 Latest Update Notes
@@ -14,6 +14,13 @@
    Implementing new security improvements.  
    - Introducing a **Log Feature**: Website owners and operators can now receive **live admin panel activity logs** directly through a connected Telegram channel for better transparency and security.  
 
+4. **Telegram Translation Button (NEW)** ✅  
+   A **translation button** has been successfully integrated with Telegram support,  
+   enabling real-time message translations for better accessibility.  
+   - Supports multiple languages 🌍  
+   - Works seamlessly alongside existing Telegram features  
+   - Designed and implemented in a **fully professional manner**  
+
 ---
 
 ## 🔗 Previous Version
@@ -22,4 +29,4 @@ If you want to check out **LocateAid v1**, visit:
 
 ---
 
-*Stay tuned for further updates as development progresses.*
+*Stay tuned for further updates as development progresses.*  
