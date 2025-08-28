@@ -17,7 +17,7 @@ We’ve successfully integrated **Ask AI** 🤖 into the web version!
 **Status:** Currently Under Development  
 > ⚠️ Project progress may face slight delays due to my admission process and personal work.  
 > But I promise it won’t take long 🫶🏻  
-
+> You can test our web from here https://locateaidv2.netlify.app
 ---
 
 ## 🆕 Latest Update Notes
