@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Asha Maternity & General Hospital",
+    "address": "Ahilyabai Holkar Marg, Gajanand Colony, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Asha+Maternity+&+General+Hospital/@19.8765,75.3234"
+  },
+  {
+    "name": "Antrang NeuroPsychiatry Hospital",
+    "address": "Chh. Sambhaji Nagar, Maharashtra",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Antrang+NeuroPsychiatry+Hospital/@19.8770,75.3240"
+  },
+  {
+    "name": "Medicover Hospital",
+    "address": "Chh. Sambhaji Nagar, Maharashtra",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Medicover+Hospital/@19.8780,75.3250"
+  },
+  {
+    "name": "Apex Superspeciality Hospital",
+    "address": "Opposite SFS School, Jalna Road, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Apex+Superspeciality+Hospital/@19.8790,75.3260"
+  },
+  {
+    "name": "District Civil Hospital",
+    "address": "Chikalthana, Sambhaji Nagar, Maharashtra 431006, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/District+Civil+Hospital/@19.8800,75.3270"
+  },
+  {
+    "name": "Shree Hospital",
+    "address": "Near Railway Station, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Shree+Hospital/@19.8810,75.3280"
+  },
+  {
+    "name": "Sushrut Hospital",
+    "address": "Near Panchwati, Sambhaji Nagar, Maharashtra 431002, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sushrut+Hospital/@19.8820,75.3290"
+  },
+  {
+    "name": "Sanjeevani Hospital",
+    "address": "Near Railway Station, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sanjeevani+Hospital/@19.8830,75.3300"
+  },
+  {
+    "name": "Siddhi Vinayak Hospital",
+    "address": "Near CIDCO Bus Stand, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Siddhi+Vinayak+Hospital/@19.8840,75.3310"
+  },
+  {
+    "name": "Shree Clinic",
+    "address": "Near Railway Station, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Shree+Clinic/@19.8850,75.3320"
+  },
+  {
+    "name": "Sambhaji Nagar City Police Station",
+    "address": "Ganesh Colony, Ambika Nagar, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "police station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+City+Police+Station/@19.8860,75.3330"
+  },
+  {
+    "name": "Varvade Police Chowky",
+    "address": "Near Varvade Market, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "police station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Varvade+Police+Chowky/@19.8870,75.3340"
+  },
+  {
+    "name": "Sambhaji Nagar Rural Police Station",
+    "address": "Sambhaji Nagar-Rural, Maharashtra 431002, India",
+    "type": "police station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Rural+Police+Station/@19.8880,75.3350"
+  },
+  {
+    "name": "Sambhaji Nagar Traffic Police Office",
+    "address": "Near Bus Stand, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "police station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Traffic+Police/@19.8890,75.3360"
+  },
+  {
+    "name": "Sambhaji Nagar Fire Station",
+    "address": "Nagar Parishad Chowk, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "fire station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Fire+Station/@19.8900,75.3370"
+  },
+  {
+    "name": "Sambhaji Nagar Industrial Fire Station",
+    "address": "Near Industrial Area, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "fire station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Industrial+Fire+Station/@19.8910,75.3380"
+  },
+  {
+    "name": "Shree Hospital Annex",
+    "address": "Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Shree+Hospital+Annex/@19.8920,75.3390"
+  },
+  {
+    "name": "Sambhaji Nagar City Clinic",
+    "address": "Near Sambhaji Nagar Market, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+City+Clinic/@19.8930,75.3400"
+  },
+  {
+    "name": "Sambhaji Nagar Pediatric Hospital",
+    "address": "Main Road, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Pediatric+Hospital/@19.8940,75.3410"
+  },
+  {
+    "name": "Sambhaji Nagar Cardiac Care Center",
+    "address": "Varvade, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Cardiac+Care/@19.8950,75.3420"
+  },
+  {
+    "name": "Sambhaji Nagar Diagnostic Center",
+    "address": "Near Bus Stand, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Diagnostic+Center/@19.8960,75.3430"
+  },
+  {
+    "name": "Sambhaji Nagar Women's Health Clinic",
+    "address": "Near Taluka Office, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Womens+Health+Clinic/@19.8970,75.3440"
+  },
+  {
+    "name": "Sambhaji Nagar General Emergency Clinic",
+    "address": "Market Road, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+General+Emergency+Clinic/@19.8980,75.3450"
+  },
+  {
+    "name": "Sambhaji Nagar Rural Health Center",
+    "address": "Varvade, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "hospital",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Rural+Health+Center/@19.8990,75.3460"
+  },
+  {
+    "name": "Sambhaji Nagar Police Traffic Outpost",
+    "address": "Near College, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "police station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Police+Traffic+Outpost/@19.9000,75.3470"
+  },
+  {
+    "name": "Sambhaji Nagar Women's Police Station",
+    "address": "Main Road, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "police station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Womens+Police+Station/@19.9010,75.3480"
+  },
+  {
+    "name": "Sambhaji Nagar Industrial Police Station",
+    "address": "Near Industrial Area, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "police station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Industrial+Police+Station/@19.9020,75.3490"
+  },
+  {
+    "name": "Sambhaji Nagar Fire Safety Center",
+    "address": "Near Market, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "fire station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Fire+Safety+Center/@19.9030,75.3500"
+  },
+  {
+    "name": "Sambhaji Nagar Emergency Fire Hub",
+    "address": "Near Bus Stand, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "fire station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Emergency+Fire+Hub/@19.9040,75.3510"
+  },
+  {
+    "name": "Sambhaji Nagar Fire Safety Office",
+    "address": "Varvade, Sambhaji Nagar, Maharashtra 431001, India",
+    "type": "fire station",
+    "city": "Sambhaji Nagar",
+    "mapLink": "https://www.google.com/maps/place/Sambhaji+Nagar+Fire+Safety+Office/@19.9050,75.3520"
+  }
+]

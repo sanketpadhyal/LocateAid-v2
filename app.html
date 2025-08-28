@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <link rel="icon" type="image/png" href="assets/app.png" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LocateAid | Find Help Near You</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/app.css"/>
+</head>
+
+<body class="bg-white text-gray-800">
+
+  <!-- Navbar -->
+  <header class="bg-white shadow-md sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+      <div class="flex items-center gap-2">
+        <img src="assets/logo.jpg" alt="LocateAid Logo" class="w-8 h-8 object-contain" />
+        <h1 class="text-2xl font-bold text-blue-600">LocateAid</h1>
+      </div>
+
+      <nav class="hidden md:flex space-x-10 items-center">
+        <a href="index.html" class="nav-link text-gray-700" data-i18n="home"><strong>Home</strong></a>
+        <a href="about.html" class="nav-link text-gray-700" data-i18n="about"><strong>About</strong></a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketpadhyal3@gmail.com&su=LocateAid%20Support%20Request" target="_blank" class="nav-link text-gray-700" data-i18n="contact"><strong>Contact</strong></a>
+      </nav>
+      <div class="md:hidden">
+        <button id="menuBtn" class="focus:outline-none">
+          <svg id="menuIcon" class="w-6 h-6 text-blue-600 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path id="menuPath" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div id="mobileMenu" class="md:hidden hidden px-4 pb-4">
+      <a href="index.html" class="block py-2 text-gray-700 hover:text-blue-600" data-i18n="home">Home</a>
+      <a href="about.html" class="block py-2 text-gray-700 hover:text-blue-600" data-i18n="about">About</a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketpadhyal3@gmail.com&su=LocateAid%20Support%20Request" target="_blank" class="block py-2 text-gray-700 hover:text-blue-600" data-i18n="contact">Contact</a>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main class="min-h-screen flex flex-col items-center justify-center text-center px-4">
+    <h2 class="text-3xl md:text-4xl font-bold mb-4" data-i18n="mainHeading">Find Emergency Help Near You</h2>
+    <p class="text-gray-600 mb-6" data-i18n="mainSubheading">Click below to allow location access or manually search by city.</p>
+
+    <!-- Auto Location -->
+    <button id="locateBtn" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded mb-4" data-i18n="allowLocation">
+      Allow Location Access
+    </button>
+
+    <!-- Fallback Search Button -->
+    <button id="fallbackSearchBtn"
+            class="bg-gray-200 hover:bg-gray-300 text-gray-800 px-6 py-3 rounded mb-4 hidden"
+            data-i18n="searchCity">
+      Search by City Instead
+    </button>
+
+    <!-- Manual Button -->
+    <button id="manualBtn" class="bg-gray-200 hover:bg-gray-300 text-gray-800 px-6 py-3 rounded mb-4" data-i18n="findManually">
+      Find Manually
+    </button>
+
+    <!-- Manual Input -->
+    <div id="manualSearchArea" class="w-full max-w-sm mb-6 hidden transition-all duration-300">
+      <input id="manualCityInput" type="text" placeholder="Type city name (e.g. mumbai)"
+             class="w-full px-4 py-2 border rounded shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500" />
+      <button id="manualSearchBtn"
+              class="mt-2 w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700"
+              data-i18n="search">
+        Search
+      </button>
+    </div>
+
+    <div id="status" class="text-sm text-red-600 mb-4"></div>
+    <div id="results" class="w-full max-w-2xl space-y-4 px-2"></div>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

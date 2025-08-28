@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Suyash Hospital And ICU",
+    "address": "Karvand, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Suyash+Hospital+And+ICU/@20.0703,74.4678"
+  },
+  {
+    "name": "Gayatri Hospital And Maternity Home",
+    "address": "Near Mhalsa Mata Mandir, Varvade, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Gayatri+Hospital+And+Maternity+Home/@20.0710,74.4680"
+  },
+  {
+    "name": "Shirpur Municipal Hospital",
+    "address": "N-9, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Municipal+Hospital/@20.0720,74.4685"
+  },
+  {
+    "name": "Shirpur Community Health Centre",
+    "address": "Near Bus Stand, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Community+Health+Centre/@20.0760,74.4720"
+  },
+  {
+    "name": "Shirpur Women's Hospital",
+    "address": "Opposite Shirpur College, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Womens+Hospital/@20.0770,74.4730"
+  },
+  {
+    "name": "Shirpur Dental Care",
+    "address": "Market Road, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Dental+Care/@20.0785,74.4745"
+  },
+  {
+    "name": "Shirpur Eye Hospital",
+    "address": "Near Shirpur Bus Stand, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Eye+Hospital/@20.0790,74.4750"
+  },
+  {
+    "name": "Shirpur Trauma Center",
+    "address": "Main Road, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Trauma+Center/@20.0810,74.4770"
+  },
+  {
+    "name": "Shirpur Emergency Care Center",
+    "address": "Near Taluka Office, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Emergency+Care+Center/@20.0800,74.4760"
+  },
+  {
+    "name": "Shirpur Private Clinic",
+    "address": "Near Ambika Mandir, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Private+Clinic/@20.0840,74.4800"
+  },
+  {
+    "name": "Shirpur Women & Child Care Hospital",
+    "address": "Varvade, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Women+And+Child+Care/@20.0850,74.4810"
+  },
+  {
+    "name": "Shirpur Physiotherapy & Rehab Center",
+    "address": "Near Shirpur Market, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Physiotherapy+Rehab/@20.0860,74.4820"
+  },
+  {
+    "name": "Shirpur General Hospital",
+    "address": "Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+General+Hospital/@20.0870,74.4830"
+  },
+  {
+    "name": "Shirpur Ayurvedic Health Center",
+    "address": "Near Shirpur Temple, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Ayurvedic+Health+Center/@20.0880,74.4840"
+  },
+  {
+    "name": "Shirpur City Police Station",
+    "address": "Ganesh Colony, Ambika Nagar, Shirpur, Maharashtra 425405, India",
+    "type": "police station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+City+Police+Station/@20.0730,74.4690"
+  },
+  {
+    "name": "Varvade Police Chowky",
+    "address": "Near Varvade Market, Shirpur, Maharashtra 425405, India",
+    "type": "police station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Varvade+Police+Chowky/@20.0740,74.4700"
+  },
+  {
+    "name": "Shirpur Rural Police Station",
+    "address": "Shirpur-Rural, Maharashtra 425405, India",
+    "type": "police station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Rural+Police+Station/@20.0780,74.4740"
+  },
+  {
+    "name": "Shirpur Traffic Police Office",
+    "address": "Near Bus Stand, Shirpur, Maharashtra 425405, India",
+    "type": "police station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Traffic+Police/@20.0795,74.4755"
+  },
+  {
+    "name": "Shirpur Police Outpost",
+    "address": "Opposite Shirpur Market, Shirpur, Maharashtra 425405, India",
+    "type": "police station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Police+Outpost/@20.0820,74.4780"
+  },
+  {
+    "name": "Shirpur Fire Station",
+    "address": "Nagar Parishad Chowk, Shirpur-Warwade, Maharashtra 425405, India",
+    "type": "fire station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Fire+Station/@20.0750,74.4710"
+  },
+  {
+    "name": "Shirpur Industrial Fire Station",
+    "address": "Near Industrial Area, Shirpur, Maharashtra 425405, India",
+    "type": "fire station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Industrial+Fire+Station/@20.0790,74.4750"
+  },
+  {
+    "name": "Shirpur Fire Brigade Extension",
+    "address": "Near Shirpur Bus Stand, Maharashtra 425405, India",
+    "type": "fire station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Fire+Brigade+Extension/@20.0830,74.4790"
+  },
+  {
+    "name": "Shirpur Civil Hospital Annex",
+    "address": "Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Civil+Hospital+Annex/@20.0890,74.4850"
+  },
+  {
+    "name": "Shirpur City Clinic",
+    "address": "Near Shirpur Market, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+City+Clinic/@20.0900,74.4860"
+  },
+  {
+    "name": "Shirpur Pediatric Hospital",
+    "address": "Main Road, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Pediatric+Hospital/@20.0910,74.4870"
+  },
+  {
+    "name": "Shirpur Cardiac Care Center",
+    "address": "Varvade, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Cardiac+Care/@20.0920,74.4880"
+  },
+  {
+    "name": "Shirpur Diagnostic Center",
+    "address": "Near Bus Stand, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Diagnostic+Center/@20.0930,74.4890"
+  },
+  {
+    "name": "Shirpur Women's Health Clinic",
+    "address": "Near Taluka Office, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Womens+Health+Clinic/@20.0940,74.4900"
+  },
+  {
+    "name": "Shirpur General Emergency Clinic",
+    "address": "Market Road, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+General+Emergency+Clinic/@20.0950,74.4910"
+  },
+  {
+    "name": "Shirpur Rural Health Center",
+    "address": "Varvade, Shirpur, Maharashtra 425405, India",
+    "type": "hospital",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Rural+Health+Center/@20.0960,74.4920"
+  },
+  {
+    "name": "Shirpur Police Traffic Outpost",
+    "address": "Near Shirpur College, Maharashtra 425405, India",
+    "type": "police station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Police+Traffic+Outpost/@20.0970,74.4930"
+  },
+  {
+    "name": "Shirpur Women's Police Station",
+    "address": "Shirpur Main Road, Maharashtra 425405, India",
+    "type": "police station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Womens+Police+Station/@20.0980,74.4940"
+  },
+  {
+    "name": "Shirpur Industrial Police Station",
+    "address": "Near Industrial Area, Shirpur, Maharashtra 425405, India",
+    "type": "police station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Industrial+Police+Station/@20.0990,74.4950"
+  },
+  {
+    "name": "Shirpur Fire Safety Center",
+    "address": "Near Shirpur Market, Maharashtra 425405, India",
+    "type": "fire station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Fire+Safety+Center/@20.1000,74.4960"
+  },
+  {
+    "name": "Shirpur Emergency Fire Hub",
+    "address": "Near Bus Stand, Shirpur, Maharashtra 425405, India",
+    "type": "fire station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Emergency+Fire+Hub/@20.1010,74.4970"
+  },
+  {
+    "name": "Shirpur Fire Safety Office",
+    "address": "Varvade, Shirpur, Maharashtra 425405, India",
+    "type": "fire station",
+    "city": "Shirpur",
+    "mapLink": "https://www.google.com/maps/place/Shirpur+Fire+Safety+Office/@20.1020,74.4980"
+  }
+]

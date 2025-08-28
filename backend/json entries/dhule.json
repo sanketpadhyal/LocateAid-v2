@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Civil Hospital Dhule",
+    "address": "Civil Hospital Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Nm8U3UoVYy92"
+  },
+  {
+    "name": "Radhakrishna Hospital",
+    "address": "Nashik Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/8Xz1N1sVwJ72"
+  },
+  {
+    "name": "Bharati Hospital",
+    "address": "Near Bus Stand, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/E8YqDn4f8vS2"
+  },
+  {
+    "name": "Ashwini Hospital",
+    "address": "Sadar Bazar, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Mx3K9VYf7Fq"
+  },
+  {
+    "name": "Shree Sai Hospital",
+    "address": "Kolhapur Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/jE6kVdW5tQ52"
+  },
+  {
+    "name": "Apollo Hospital Dhule",
+    "address": "Nashik Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/V1Ujx9jF7s32"
+  },
+  {
+    "name": "Jankalyan Hospital",
+    "address": "Shivaji Chowk, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/KfT8j9J9sRr"
+  },
+  {
+    "name": "Anand Hospital",
+    "address": "Station Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Z1qJ6uJ6v4P2"
+  },
+  {
+    "name": "Prathamesh Hospital",
+    "address": "Jalgaon Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/4B1U6s9Q6ZQ2"
+  },
+  {
+    "name": "Sahyadri Hospital",
+    "address": "Nashik Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/d3xN1pQ9D6P2"
+  },
+  {
+    "name": "Dhule Police Station",
+    "address": "Civil Lines, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/kz2x1J7V8Jp"
+  },
+  {
+    "name": "Shivaji Nagar Police Station",
+    "address": "Shivaji Nagar, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/TYkz6sF7V1E2"
+  },
+  {
+    "name": "Nashik Rd Police Station",
+    "address": "Nashik Rd, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Qz7t1Vf7R6J2"
+  },
+  {
+    "name": "Mugavane Police Chowky",
+    "address": "Mugavane, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/B6R1J8V8N1E2"
+  },
+  {
+    "name": "Sadar Police Station",
+    "address": "Sadar Bazar, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/7QF2T1S9U8M2"
+  },
+  {
+    "name": "Fire Station Dhule",
+    "address": "Civil Lines, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/w9L3Q8kF7E42"
+  },
+  {
+    "name": "Shivaji Nagar Fire Station",
+    "address": "Shivaji Nagar, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/f7N9D4sP7KQ2"
+  },
+  {
+    "name": "Nashik Rd Fire Station",
+    "address": "Nashik Rd, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/T7V6Z3sP9L92"
+  },
+  {
+    "name": "Jalgaon Rd Fire Outpost",
+    "address": "Jalgaon Rd, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/X4R1V8pF6M62"
+  },
+  {
+    "name": "Civil Lines Fire Station",
+    "address": "Civil Lines, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/H6M9Q3L2Vj82"
+  },
+  {
+    "name": "Vikram Hospital",
+    "address": "Shivaji Chowk, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Kx8Q1uF6R7G2"
+  },
+  {
+    "name": "Dr. Joshi Hospital",
+    "address": "Station Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/R7F3V8T2Wq82"
+  },
+  {
+    "name": "Sanjeevani Hospital",
+    "address": "Kolhapur Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/T7H2Q9J8Lx92"
+  },
+  {
+    "name": "Vijay Hospital",
+    "address": "Nashik Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/M3N1T8S4R8L2"
+  },
+  {
+    "name": "Shree Hospital",
+    "address": "Sadar Bazar, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/P9R3U7D6F9N2"
+  },
+  {
+    "name": "Rohit Hospital",
+    "address": "Civil Lines, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Y4L2D8S1V7R2"
+  },
+  {
+    "name": "Aashirwad Hospital",
+    "address": "Shivaji Nagar, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/J8Q6P9F3R1T2"
+  },
+  {
+    "name": "Dhule West Police Station",
+    "address": "West Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/K3P9U7F2W6L2"
+  },
+  {
+    "name": "Dhule East Police Station",
+    "address": "East Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/F7Q9P8T3R4L2"
+  },
+  {
+    "name": "Ramnagar Police Chowky",
+    "address": "Ramnagar, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/E6L1T3S9K5R2"
+  },
+  {
+    "name": "Aadarsh Police Station",
+    "address": "Aadarsh Nagar, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/W9L3D8P2R7F2"
+  },
+  {
+    "name": "Bharat Fire Station",
+    "address": "Near Bus Stand, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/K7R4Q1F8T3P2"
+  },
+  {
+    "name": "Shree Ganesh Fire Station",
+    "address": "Kolhapur Rd, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Y3M2P6S9Q4R2"
+  },
+  {
+    "name": "Shanti Hospital",
+    "address": "Civil Lines, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/V2F3L8S1Q7R2"
+  },
+  {
+    "name": "Siddharth Hospital",
+    "address": "Shivaji Nagar, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/M3Q8F2S4R7L2"
+  },
+  {
+    "name": "Arogya Hospital",
+    "address": "Nashik Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/T1F9P8S3R2L2"
+  },
+  {
+    "name": "Balaji Hospital",
+    "address": "Station Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/K2P7F9T4R3L2"
+  },
+  {
+    "name": "Police Outpost Kalewadi",
+    "address": "Kalewadi, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/P9R3F2S6T7L2"
+  },
+  {
+    "name": "Fire Station Kalewadi",
+    "address": "Kalewadi, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Q8R2P3F6T4L2"
+  },
+  {
+    "name": "Civil Hospital Extension",
+    "address": "Near Civil Lines, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/L6F3Q9S7R2P2"
+  },
+  {
+    "name": "Vikram Fire Outpost",
+    "address": "Shivaji Chowk, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/K3F7Q9R2P6L2"
+  },
+  {
+    "name": "Saraswati Hospital",
+    "address": "Kolhapur Rd, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/T4P9R6S3Q2L2"
+  },
+  {
+    "name": "Rajiv Gandhi Police Station",
+    "address": "Rajiv Gandhi Nagar, Dhule, Maharashtra",
+    "type": "police",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/F7Q2P9R3S4L2"
+  },
+  {
+    "name": "Shree Hospital Extension",
+    "address": "Near Shivaji Chowk, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/Y2F6S3R9P1L2"
+  },
+  {
+    "name": "Sanket Hospital",
+    "address": "Civil Lines, Dhule, Maharashtra",
+    "type": "hospital",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/P1R7F3S2Q6L2"
+  },
+  {
+    "name": "Mahadev Fire Outpost",
+    "address": "Nashik Rd, Dhule, Maharashtra",
+    "type": "fire",
+    "city": "Dhule",
+    "mapLink": "https://goo.gl/maps/K9P3R2F7S4L2"
+  }
+]

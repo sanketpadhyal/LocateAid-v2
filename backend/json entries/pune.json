@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Jehangir Hospital",
+    "address": "45, Dr. Ketkar Rd, Pune, Maharashtra 411001, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Jehangir+Hospital/@18.5204,73.8567"
+  },
+  {
+    "name": "Ruby Hall Clinic",
+    "address": "40, Sassoon Rd, Pune, Maharashtra 411001, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Ruby+Hall+Clinic/@18.5208,73.8572"
+  },
+  {
+    "name": "Deenanath Mangeshkar Hospital",
+    "address": "Pashan Rd, Erandwane, Pune, Maharashtra 411004, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Deenanath+Mangeshkar+Hospital/@18.5202,73.8569"
+  },
+  {
+    "name": "Sahyadri Hospitals, Deccan Gymkhana",
+    "address": "Bajirao Rd, Pune, Maharashtra 411004, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Sahyadri+Hospitals/@18.5210,73.8575"
+  },
+  {
+    "name": "Aditya Birla Memorial Hospital",
+    "address": "Karve Rd, Pune, Maharashtra 411004, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Aditya+Birla+Memorial+Hospital/@18.5215,73.8580"
+  },
+  {
+    "name": "Sahyadri Hospitals, Hadapsar",
+    "address": "Hadapsar, Pune, Maharashtra 411028, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Sahyadri+Hospitals+Hadapsar/@18.5207,73.8590"
+  },
+  {
+    "name": "Jehangir Nursing Home",
+    "address": "Lane No 7, Deccan Gymkhana, Pune, Maharashtra 411004, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Jehangir+Nursing+Home/@18.5220,73.8570"
+  },
+  {
+    "name": "KEM Hospital",
+    "address": "Rasta Peth, Pune, Maharashtra 411011, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/KEM+Hospital/@18.5230,73.8585"
+  },
+  {
+    "name": "Columbia Asia Hospital, Pune",
+    "address": "Sanghvi Road, Pune, Maharashtra 411028, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Columbia+Asia+Hospital/@18.5240,73.8590"
+  },
+  {
+    "name": "National Hospital & Research Centre",
+    "address": "FC Road, Pune, Maharashtra 411004, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/National+Hospital/@18.5250,73.8600"
+  },
+  {
+    "name": "Pune City Police Station",
+    "address": "Shivaji Nagar, Pune, Maharashtra 411005, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Pune+City+Police+Station/@18.5260,73.8610"
+  },
+  {
+    "name": "Camp Police Station",
+    "address": "Camp, Pune, Maharashtra 411001, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Camp+Police+Station/@18.5270,73.8620"
+  },
+  {
+    "name": "Kothrud Police Station",
+    "address": "Kothrud, Pune, Maharashtra 411038, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Kothrud+Police+Station/@18.5280,73.8630"
+  },
+  {
+    "name": "Shivajinagar Police Station",
+    "address": "Shivajinagar, Pune, Maharashtra 411005, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Shivajinagar+Police+Station/@18.5290,73.8640"
+  },
+  {
+    "name": "Hadapsar Police Station",
+    "address": "Hadapsar, Pune, Maharashtra 411028, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Hadapsar+Police+Station/@18.5300,73.8650"
+  },
+  {
+    "name": "Pune Fire Brigade Headquarters",
+    "address": "Rasta Peth, Pune, Maharashtra 411011, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Pune+Fire+Brigade+HQ/@18.5310,73.8660"
+  },
+  {
+    "name": "Shivajinagar Fire Station",
+    "address": "Shivajinagar, Pune, Maharashtra 411005, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Shivajinagar+Fire+Station/@18.5320,73.8670"
+  },
+  {
+    "name": "Camp Fire Station",
+    "address": "Camp, Pune, Maharashtra 411001, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Camp+Fire+Station/@18.5330,73.8680"
+  },
+  {
+    "name": "Kothrud Fire Station",
+    "address": "Kothrud, Pune, Maharashtra 411038, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Kothrud+Fire+Station/@18.5340,73.8690"
+  },
+  {
+    "name": "Noble Hospital",
+    "address": "Shivaji Nagar, Pune, Maharashtra 411005, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Noble+Hospital/@18.5350,73.8700"
+  },
+  {
+    "name": "Sahyadri Super Speciality Hospital",
+    "address": "Bund Garden Rd, Pune, Maharashtra 411001, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Sahyadri+Super+Speciality+Hospital/@18.5360,73.8710"
+  },
+  {
+    "name": "Pimpri Hospital",
+    "address": "Pimpri, Pune, Maharashtra 411018, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Pimpri+Hospital/@18.5370,73.8720"
+  },
+  {
+    "name": "Ranka Hospital",
+    "address": "Baner, Pune, Maharashtra 411045, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Ranka+Hospital/@18.5380,73.8730"
+  },
+  {
+    "name": "Inamdar Multispeciality Hospital",
+    "address": "Chandan Nagar, Pune, Maharashtra 411033, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Inamdar+Hospital/@18.5390,73.8740"
+  },
+  {
+    "name": "Surya Hospital",
+    "address": "Pashan Rd, Pune, Maharashtra 411008, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Surya+Hospital/@18.5400,73.8750"
+  },
+  {
+    "name": "Lokmanya Hospital",
+    "address": "Kalyani Nagar, Pune, Maharashtra 411014, India",
+    "type": "hospital",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Lokmanya+Hospital/@18.5410,73.8760"
+  },
+  {
+    "name": "Kalyani Police Station",
+    "address": "Kalyani Nagar, Pune, Maharashtra 411014, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Kalyani+Police+Station/@18.5420,73.8770"
+  },
+  {
+    "name": "Baner Police Station",
+    "address": "Baner, Pune, Maharashtra 411045, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Baner+Police+Station/@18.5430,73.8780"
+  },
+  {
+    "name": "Wakad Police Station",
+    "address": "Wakad, Pune, Maharashtra 411057, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Wakad+Police+Station/@18.5440,73.8790"
+  },
+  {
+    "name": "Pimpri Police Station",
+    "address": "Pimpri, Pune, Maharashtra 411018, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Pimpri+Police+Station/@18.5450,73.8800"
+  },
+  {
+    "name": "Chakan Police Station",
+    "address": "Chakan, Pune, Maharashtra 410501, India",
+    "type": "police station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Chakan+Police+Station/@18.5460,73.8810"
+  },
+  {
+    "name": "Vimala Fire Station",
+    "address": "Shivaji Nagar, Pune, Maharashtra 411005, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Vimala+Fire+Station/@18.5470,73.8820"
+  },
+  {
+    "name": "Wakad Fire Station",
+    "address": "Wakad, Pune, Maharashtra 411057, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Wakad+Fire+Station/@18.5480,73.8830"
+  },
+  {
+    "name": "Baner Fire Station",
+    "address": "Baner, Pune, Maharashtra 411045, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Baner+Fire+Station/@18.5490,73.8840"
+  },
+  {
+    "name": "Kothrud Fire Brigade",
+    "address": "Kothrud, Pune, Maharashtra 411038, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Kothrud+Fire+Brigade/@18.5500,73.8850"
+  },
+  {
+    "name": "Bund Garden Fire Station",
+    "address": "Bund Garden Rd, Pune, Maharashtra 411001, India",
+    "type": "fire station",
+    "city": "Pune",
+    "mapLink": "https://www.google.com/maps/place/Bund+Garden+Fire+Station/@18.5510,73.8860"
+  }
+]
