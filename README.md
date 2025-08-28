@@ -86,6 +86,15 @@ Check out **LocateAid v1** here:
 
 ---
 
+## 🔗 Telegram Integration  
+
+- 📡 **Live Admin Logs Bot:** [@LocateAidBot](@usbkevri3859vek_bot)  
+- 📢 **Admin Activity Channel:** [t.me/LocateAidLogs](https://t.me/+PEiFm7hsGL81MmU9)  
+
+*(For demo purposes — connects backend log activities with Telegram for live monitoring.)*  
+
+---
+
 ## 👨‍💻 Developer  
 
 Made with ❤️ by [**Sanket Padhyal**](https://github.com/sanketpadhyal)  
