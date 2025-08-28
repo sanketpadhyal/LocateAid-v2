@@ -1,58 +1,108 @@
-# LocateAid v2
+# 🚑 LocateAid v2  
 
-LocateAid is an emergency-focused web project designed to provide quick access to essential tools and solutions during critical situations.  
-With **v2**, we’re expanding the platform to include smarter, faster, and more accessible features for users.  
-
----
-
-## 📢 New Feature – Ask AI
-We’ve successfully integrated **Ask AI** 🤖 into the web version!  
-- Users can now **ask emergency situation solutions directly from AI**.  
-- Optimized for faster and more accurate responses.  
-- Built to provide reliable assistance in urgent cases.  
+LocateAid is an emergency-focused web project designed to provide **quick access to essential tools and solutions** during critical situations.  
+With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.  
 
 ---
 
-## 🏗️ Development Status
-**Status:** Currently Under Development  
-> ⚠️ Project progress may face slight delays due to my admission process and personal work.  
-> But I promise it won’t take long 🫶🏻  
-> You can test our web from here https://locateaidv2.netlify.app
+## ✨ What’s New in v2  
+
+### 📢 Ask AI (NEW)  
+- Integrated **AI-powered assistant** 👩‍⚕️  
+- Users can now **ask for emergency solutions** directly.  
+- Provides faster and more accurate responses.  
+- Avoids unnecessary timepass.  
+
+### 📞 Emergency Numbers (NEW)  
+- Added a dedicated **Emergency Numbers section**.  
+- Quick access to all **essential national emergency numbers** in one place.  
+
+### 🌐 Multi-Language Support  
+- New **translation button** added.  
+- Supported Languages:  
+  - English  
+  - हिंदी (Hindi)  
+  - मराठी (Marathi)  
+  - ગુજરાતી (Gujarati)  
+
+### 📊 Live Activity Logging (Admin Panel)  
+- Integrated **Telegram bot + channel logging**.  
+- Logs all important events in real-time:  
+  - User logins / logouts  
+  - Admin activities  
+  - Server live/offline status  
+  - City updates  
+- Ensures **complete transparency & monitoring**.  
+
+### 🏙️ Add Your City (Admin Feature)  
+- If **Geoapify API coverage is not available** in your city,  
+  admins can **manually add your city** via the **Admin Panel**.  
+- **Admin password**: `sanket` *(for demo purposes only — not public use)*.  
+
+### 🎨 Enhanced Look & Feel  
+- Improved UI for a **clean, modern, and responsive design**.  
+- Optimized performance across all devices.  
+
 ---
 
-## 🆕 Latest Update Notes
-1. **AI Emergency Assistant Added** ✅
-   - Fully optimized for accurate emergency solutions.  
-
-2. **Enhancing Web Experience**  
-   - Optimized UI and performance across all devices.  
-
-3. **Updating Admin Panel**  
-   - Added a **Log Feature**: Website owners now receive **live admin activity logs** directly on a connected **Telegram channel**.  
-
-4. **Telegram Integration Completed** ✅  
-   - All planned Telegram-related features are fully implemented.  
-
-5. **Web Translation Button (NEW)** ✅  
-   - Users can now translate the web interface.  
-   - Supported Languages:  
-     - English  
-     - Hindi  
-     - Marathi  
-     - Gujarati  
+## 🆕 Latest Update Notes  
+1. **Ask AI integrated** ✅  
+2. **Emergency Numbers section added** ✅  
+3. **Live Telegram Logs for Admin Panel** ✅  
+4. **Web translation button (English, Hindi, Marathi, Gujarati)** ✅  
+5. **City add feature (via Admin Panel)** ✅  
+6. **Enhanced UI & performance improvements** ✅  
 
 ---
 
-## 🚀 Upcoming
-- Final polishing and testing before public release.  
-- Web version will be uploaded soon!  
+## 📦 Tech Stack  
+
+- **Frontend:** HTML5, CSS3 (custom), JavaScript (Vanilla)  
+- **Backend:** Node.js with Express  
+- **APIs:**  
+  - Geoapify Places API 🌍  
+  - OpenRouter API 👩🏻‍⚕️ (AI-powered assistance)  
+- **Storage:** JSON logs via Telegram Bot + Channel  
+- **Hosting:** Netlify (Frontend) + Replit (Backend)  
 
 ---
 
-## 🔗 Previous Version
+
+## 🔗 Previous Version  
 Check out **LocateAid v1** here:  
-👉 [LocateAid-v1 on GitHub](https://github.com/sanketpadhyal/LocateAid)
+👉 [LocateAid-v1 on GitHub](https://github.com/sanketpadhyal/LocateAid)  
 
 ---
 
-### Stay tuned for more updates as development continues 🚀  
+## 🖼️ Assets  
+
+- Project includes a **background wallpaper (`assets/bg.png`)**.  
+- ⚡ **Important:** This wallpaper is used **only in the backend (Admin Panel)** for styling purposes.  
+- The **frontend is fully static and background-free**, ensuring **clean visuals** and **fast loading times**.  
+
+![Background Image](assets/bg.jpg)  
+
+> 💡 Always compress or optimize background images for maximum performance.  
+
+---
+
+## 👨‍💻 Developer  
+
+Made with ❤️ by [**Sanket Padhyal**](https://github.com/sanketpadhyal)  
+> 🎓 A self-taught developer passionate about web technologies and real-world problem solving.  
+
+---
+
+## 📩 Contact  
+
+For feedback, bug reports, or suggestions:  
+📧 **sanketpadhyal3@gmail.com**  
+📧 **sanketpadhyal@icloud.com**  
+
+---
+
+## ⚠️ Disclaimer  
+
+LocateAid is built with a **utility-first approach** — prioritizing **speed, simplicity, and reliability**.  
+It is not intended as a substitute for professional emergency services but as a **quick access tool** to critical information.  
+
