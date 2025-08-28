@@ -5,6 +5,17 @@ With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.
 
 ---
 
+![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?style=flat&logo=node.js)  
+![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20TailwindCSS%2C%20CSS3%2C%20JS-blue?style=flat)  
+![Backend](https://img.shields.io/badge/Backend-Express%20%7C%20JSON-orange?style=flat&logo=node.js)  
+![API](https://img.shields.io/badge/API-Geoapify%20Places%20API-purple?style=flat)  
+![Telegram](https://img.shields.io/badge/Telegram-Bot%20%26%20Channel-0088cc?style=flat&logo=telegram)  
+![Hosting Frontend](https://img.shields.io/badge/Hosted%20on-Netlify-brightgreen?style=flat&logo=netlify)  
+![Hosting Backend](https://img.shields.io/badge/Backend-Replit-lightgrey?style=flat&logo=replit)  
+![Admin Panel](https://img.shields.io/badge/Admin%20Panel-Enabled-red?style=flat)  
+
+---
+
 ## ✨ What’s New in v2  
 
 ### 📢 Ask AI (NEW)  
