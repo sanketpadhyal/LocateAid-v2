@@ -11,8 +11,10 @@ With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.
 ![API](https://img.shields.io/badge/API-Geoapify%20Places%20API-purple?style=flat)  
 ![Telegram](https://img.shields.io/badge/Telegram-Bot%20%26%20Channel-0088cc?style=flat&logo=telegram)  
 ![Hosting Frontend](https://img.shields.io/badge/Hosted%20on-Netlify-brightgreen?style=flat&logo=netlify)  
-![Hosting Backend](https://img.shields.io/badge/Backend-Replit-lightgrey?style=flat&logo=replit)  
+![Hosting Backend](https://img.shields.io/badge/Backend-Render-lightblue?style=flat&logo=render)  
 ![Admin Panel](https://img.shields.io/badge/Admin%20Panel-Enabled-red?style=flat)  
+
+> 💡 **Big achievement:** Backend is now hosted on **Render**, making it **almost 24/7 online**, ensuring high availability for users 🚀.
 
 ---
 
@@ -63,6 +65,7 @@ With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.
 4. **Web translation button (English, Hindi, Marathi, Gujarati)** ✅  
 5. **City add feature (via Admin Panel)** ✅  
 6. **Enhanced UI & performance improvements** ✅  
+7. **Backend now hosted on Render – nearly 24/7 uptime** ✅  
 
 ---
 
@@ -74,10 +77,9 @@ With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.
   - Geoapify Places API 🌍  
   - OpenRouter API 👩🏻‍⚕️ (AI-powered assistance)  
 - **Storage:** JSON logs via Telegram Bot + Channel  
-- **Hosting:** Netlify (Frontend) + Replit (Backend)  
+- **Hosting:** Netlify (Frontend) + Render (Backend)  
 
 ---
-
 
 ## 🔗 Previous Version  
 Check out **LocateAid v1** here:  
@@ -125,4 +127,5 @@ For feedback, bug reports, or suggestions:
 
 LocateAid is built with a **utility-first approach** — prioritizing **speed, simplicity, and reliability**.  
 It is not intended as a substitute for professional emergency services but as a **quick access tool** to critical information.  
+
 
