@@ -14,7 +14,12 @@ With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.
 ![Hosting Backend](https://img.shields.io/badge/Backend-Render-lightblue?style=flat&logo=render)  
 ![Admin Panel](https://img.shields.io/badge/Admin%20Panel-Enabled-red?style=flat)  
 
-> 💡 **Big achievement:** Backend is now hosted on **Render**, making it **almost 24/7 online**, ensuring high availability for users 🚀.
+---
+
+# 📢 ALERT: BACKEND IS NOW 24×7 ONLINE 
+
+✅ The **NexaChat Backend** is now fully hosted on **Render**, which means the project is **available 24×7 without downtime**.  
+⚡ Your chat experience is smoother, faster, and always active! 
 
 ---
 
