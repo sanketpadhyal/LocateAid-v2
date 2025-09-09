@@ -2,7 +2,6 @@
 
 LocateAid is an emergency-focused web project designed to provide **quick access to essential tools and solutions** during critical situations.  
 With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.  
->> NOW 24/7 ACTIVE
 ---
 
 ![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?style=flat&logo=node.js)  
