@@ -54,7 +54,7 @@ With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.
 ### 🏙️ Add Your City (Admin Feature)  
 - If **Geoapify API coverage is not available** in your city,  
   admins can **manually add your city** via the **Admin Panel**.  
-- **Admin password**: `sanket` *(for demo purposes only — not public use)*.  
+- **Admin password**: `Demo123` *(for demo purposes only — not public use)*.  
 
 ### 🎨 Enhanced Look & Feel  
 - Improved UI for a **clean, modern, and responsive design**.  
