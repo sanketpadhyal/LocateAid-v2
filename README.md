@@ -1,5 +1,6 @@
 # 🚑 LocateAid v2  
 
+>>> BUG RECEIVED MANUAL SEARCH IS NOT WORKING IM WORKING ON IT AND WILL GET SOLVED IN FEW MINUTES 😋
 LocateAid is an emergency-focused web project designed to provide **quick access to essential tools and solutions** during critical situations.  
 With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.  
 ---
