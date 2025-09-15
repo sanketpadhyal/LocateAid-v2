@@ -6,16 +6,17 @@ const axios = require("axios");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const GEOAPIFY_KEY = "27f6cdd9cdfc4b18bc9ae238b2afb973";
-const ADMIN_PASSWORD = "Demo123"; // Hardcoded password
+const GEOAPIFY_KEY = "";
+const ADMIN_PASSWORD = ""; // Hardcoded password
 
 // 🔐 Telegram credentials
-const TELEGRAM_BOT_TOKEN = "7922856562:AAESKzDsQMCWApqYMgsLhBecu94y1Czv8ko";
-const TELEGRAM_CHAT_ID = "-1003045997171";
+const TELEGRAM_BOT_TOKEN = "";
+const TELEGRAM_CHAT_ID = "";
 
 // 🔐 OpenRouter API Key
 const OPENROUTER_API_KEY =
-  "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";
+  "sk-or
+  "";
 
 app.use(cors());
 app.use(express.json());
