@@ -6,22 +6,22 @@ const axios = require("axios");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const GEOAPIFY_KEY = ""; // Your Geoapify API Key
-const ADMIN_PASSWORD = ""; // Hardcoded password
+const GEOAPIFY_KEY = "27f6cdd9cdfc4b18bc9ae238b2afb973";
+const ADMIN_PASSWORD = "Demo123"; // Hardcoded password
 
-// Telegram credentials
-const TELEGRAM_BOT_TOKEN = "";
-const TELEGRAM_CHAT_ID = "";
+// 🔐 Telegram credentials
+const TELEGRAM_BOT_TOKEN = "7922856562:AAESKzDsQMCWApqYMgsLhBecu94y1Czv8ko";
+const TELEGRAM_CHAT_ID = "-1003045997171";
 
-// OpenRouter API Key
+// 🔐 OpenRouter API Key
 const OPENROUTER_API_KEY =
-  "";
+  "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";
 
 app.use(cors());
 app.use(express.json());
-app.use(express.static("public")); 
+app.use(express.static("public")); // Serve admin.html and other frontend files
 
-// Telegram log helpers
+// 🔔 Telegram log helpers
 const sendTelegramMessage = async (message) => {
   try {
     await axios.post(
@@ -71,27 +71,29 @@ const sendCityLog = async (city, count, adminName, services) => {
   await sendTelegramMessage(message);
 };
 
-// Fetch Emergency Services
 app.get("/api/getEmergency", async (req, res) => {
   const city = req.query.city?.toLowerCase();
   let lat = req.query.lat;
   let lng = req.query.lng;
 
-  let localResults = [];
+  let localData = [];
+  let apiResults = [];
+
+  // 1️⃣ Check local JSON first
   if (city) {
     const filePath = path.join(__dirname, `${city}.json`);
     if (fs.existsSync(filePath)) {
       try {
-        const localData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-        if (Array.isArray(localData)) {
-          localResults = localData;
-        }
+        const raw = fs.readFileSync(filePath, "utf-8");
+        const parsed = JSON.parse(raw);
+        if (Array.isArray(parsed)) localData = parsed;
       } catch (e) {
-        return res.status(500).json({ error: "Invalid local data." });
+        console.error("Error reading local city data:", e.message);
       }
     }
   }
 
+  // 2️⃣ If coordinates missing, fetch via city
   if (!lat || !lng) {
     if (city) {
       try {
@@ -102,16 +104,14 @@ app.get("/api/getEmergency", async (req, res) => {
         if (nomRes.data.length > 0) {
           lat = nomRes.data[0].lat;
           lng = nomRes.data[0].lon;
-        } else {
-          return res.json({ source: "local", places: localResults });
         }
       } catch (err) {
-        return res.status(500).json({ error: "Nominatim failed." });
+        console.error("Failed to fetch city coordinates:", err.message);
       }
     }
   }
 
-  let apiResults = [];
+  // 3️⃣ Fetch from Geoapify API if coordinates available
   if (lat && lng) {
     const radius = 5000;
     const categories = [
@@ -119,7 +119,6 @@ app.get("/api/getEmergency", async (req, res) => {
       "healthcare.hospital",
       "service.police",
     ].join(",");
-
     const apiUrl = `https://api.geoapify.com/v2/places?categories=${categories}&filter=circle:${lng},${lat},${radius}&limit=20&apiKey=${GEOAPIFY_KEY}`;
 
     try {
@@ -134,18 +133,30 @@ app.get("/api/getEmergency", async (req, res) => {
         lng: f.geometry.coordinates[0],
       }));
     } catch (err) {
-      console.error("Geoapify error:", err.message);
+      console.error("Geoapify API failed:", err.message);
     }
   }
 
-  const allResults = [...apiResults, ...localResults];
-  return res.json({
-    source: allResults.length > 0 ? "merged" : "none",
-    places: allResults,
-  });
+  // 4️⃣ Merge results
+  let mergedResults = [];
+  let source = "none";
+
+  if (localData.length > 0 && apiResults.length > 0) {
+    // Merge both
+    mergedResults = [...localData, ...apiResults];
+    source = "merged";
+  } else if (localData.length > 0) {
+    mergedResults = localData;
+    source = "local";
+  } else if (apiResults.length > 0) {
+    mergedResults = apiResults;
+    source = "api";
+  }
+
+  return res.json({ source, places: mergedResults });
 });
 
-// Admin login + Telegram log
+// ✅ Admin login + Telegram log
 app.post("/api/admin/login", async (req, res) => {
   const { password } = req.body;
 
@@ -159,7 +170,7 @@ app.post("/api/admin/login", async (req, res) => {
   }
 });
 
-// Admin: Add or append city data + Telegram log
+// ✅ Admin: Add or append city data + Telegram log
 app.post("/api/admin/addCity", async (req, res) => {
   const { city, data, password } = req.body;
   const adminName = "sanket";
@@ -198,7 +209,7 @@ app.post("/api/admin/addCity", async (req, res) => {
   }
 });
 
-// AI Chat Endpoint
+// ✅ AI Chat Endpoint
 app.post("/api/chat", async (req, res) => {
   try {
     const { message, user_chat_id } = req.body;
@@ -227,6 +238,8 @@ app.post("/api/chat", async (req, res) => {
               content: `
 You are AI Medi Help Assistant. Provide safe, concise, professional first-aid and emergency medical guidance. Avoid giving prescriptions or casual conversation.
 Do NOT mention OpenAI or any other developers or teams.
+You are female ai medi assistant.
+Don't do timepass.
               `,
             },
             { role: "user", content: message },
@@ -245,7 +258,7 @@ Do NOT mention OpenAI or any other developers or teams.
         "⚠️ Sorry, I couldn’t process that.";
     }
 
-    // Log query + reply in Telegram single message
+    // Log query + reply in Telegram (single message)
     await sendTelegramMessage(
       `💬 *AI Query Received*\nUser ID: ${user_chat_id}\nMessage: ${message}\nReply: ${botReply}`,
     );
@@ -257,7 +270,7 @@ Do NOT mention OpenAI or any other developers or teams.
   }
 });
 
-// Bot Webhook to handle user messages
+// ✅ Bot Webhook to handle user messages
 app.post("/api/bot-webhook", async (req, res) => {
   const { message } = req.body;
   if (!message || !message.from) return res.sendStatus(200);
@@ -330,24 +343,24 @@ Do NOT mention OpenAI or any other developers or teams.
   }
 });
 
-// Root route
+// ✅ Root route
 app.get("/", (req, res) => {
   res.send("LocateAid 🚑 backend is live.");
 });
 
-// Send Telegram log when server starts
+// 🚀 Send Telegram log when server starts
 const sendServerLiveLog = async () => {
   const message = `🚀 *LocateAid Server is Live!*\n✅ Running on port: ${PORT}\n🕒 ${new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })}`;
   await sendTelegramMessage(message);
 };
 
-// Logout log helper
+// 🔔 Logout log helper
 const sendLogoutLog = async () => {
   const message = `👋 *Admin Logged Out*\n🕒 ${new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })}`;
   await sendTelegramMessage(message);
 };
 
-// Admin logout + Telegram log
+// ✅ Admin logout + Telegram log
 app.post("/api/admin/logout", async (req, res) => {
   try {
     await sendLogoutLog();
@@ -357,7 +370,7 @@ app.post("/api/admin/logout", async (req, res) => {
   }
 });
 
-// Server shutdown log helper with greeting
+// 🛑 Server shutdown log helper with greeting
 const sendServerShutdownLog = async () => {
   const now = new Date();
   const timeString = now.toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
@@ -372,7 +385,7 @@ const sendServerShutdownLog = async () => {
   await sendTelegramMessage(message);
 };
 
-// Graceful shutdown on Ctrl+C or kill
+// 🧹 Graceful shutdown on Ctrl+C or kill
 process.on("SIGINT", async () => {
   console.log("🛑 Shutting down LocateAid server...");
   await sendServerShutdownLog();
