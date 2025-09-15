@@ -15,7 +15,6 @@ const TELEGRAM_CHAT_ID = "";
 
 // 🔐 OpenRouter API Key
 const OPENROUTER_API_KEY =
-  "sk-or
   "";
 
 app.use(cors());
