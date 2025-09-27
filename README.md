@@ -15,6 +15,15 @@ With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.
 
 ---
 
+# 🌐 New Domain Announcement  
+
+We’re excited to announce that **LocateAid now has its own official domain**:  
+👉 [https://locateaid.help](https://locateaid.help)  
+
+This means you can access the platform **directly through a memorable URL** for all emergency assistance needs! 🚑💨
+
+---
+
 # 📢 ALERT: BACKEND IS NOW 24×7 ONLINE 
 
 ✅ The **LocateAid-v2 Backend** is now fully hosted on **Render**, which means the project is **available 24×7 without downtime**.  
@@ -70,6 +79,7 @@ With **v2**, we’ve made the platform smarter, faster, and more reliable 🚀.
 5. **City add feature (via Admin Panel)** ✅  
 6. **Enhanced UI & performance improvements** ✅  
 7. **Backend now hosted on Render – nearly 24/7 uptime** ✅  
+8. **Official domain launched: locateaid.help** ✅  
 
 ---
 
@@ -131,5 +141,4 @@ For feedback, bug reports, or suggestions:
 
 LocateAid is built with a **utility-first approach** — prioritizing **speed, simplicity, and reliability**.  
 It is not intended as a substitute for professional emergency services but as a **quick access tool** to critical information.  
-
 
