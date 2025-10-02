@@ -29,6 +29,7 @@ This means you can access the platform **directly through a memorable URL** for 
 ✅ The **LocateAid-v2 Backend** is now fully hosted on **Render**, which means the project is **available 24×7 without downtime**.  
 ⚡ Your experience is smoother, faster, and always active! 
 
++ NOW WE WILL GET RESULT FROM BOTH API AND LOCAL STORAGE.
 ---
 
 ## ✨ What’s New in v2  
